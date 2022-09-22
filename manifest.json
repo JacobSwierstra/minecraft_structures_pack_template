@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "DESCRIPTION by Jacob Swierstra",
+        "name": "NAME",
+        "uuid": "389bc07f-6e9b-489c-a9a0-e1d174b93002",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "DESCRIPTION by Jacob Swierstra",
+            "type": "data",
+            "uuid": "4b14c4c3-fdef-4e29-a18f-bc8ee61706fc",
+            "version": [0, 0, 1]
+        }
+    ]
+}
